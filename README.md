@@ -42,7 +42,7 @@ Once the extension is installed, simply use it in your code by  :
             ['name'=>'Shenzhen'],
             ['name'=>'Gaozhou'],
         ]],
-        ['name'=>'USA','children'=>[
+        ['name'=>'Russia','children'=>[
             ['name'=>'Moscow'],
             ['name'=>'Orenburg'],
             ['name'=>'Omsk'],
@@ -50,4 +50,4 @@ Once the extension is installed, simply use it in your code by  :
         ]],
     ]
 ]]);
-?>```
+?>
